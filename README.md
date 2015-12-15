@@ -1,10 +1,10 @@
-[![Deploy to Bluemix](https://bluemix.net/deploy/button_x2.png)](https://bluemix.net/deploy?repository=https://github.com/joshisa/drupalstart)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button_x2.png)](https://bluemix.net/deploy?repository=https://github.com/joshisa/drupalagov)
 ###Drupal::Self-Assembly
 <i>noun</i>
  1. The spontaneous formation of a body in a medium containing the appropriate components
- 2. The rapid instantiation of a [Drupal](https://www.drupal.org/ "Drupal") 7.x Deployment Instance on IBM Bluemix containing optimizations and components such as Varnish 3.x and Redis caching support. 
+ 2. The rapid instantiation of a [Drupal aGov](https://www.drupal.org/project/agov "Drupal") 7.x Deployment Instance on IBM Bluemix containing optimizations and components such as Varnish 3.x and Redis caching support. 
 
-An opinionated one-click self-assembling deployment of the Drupal platform for content management software onto a CloudFoundry platform.  
+An opinionated one-click self-assembling deployment of the Drupal aGov platform for content management software onto a CloudFoundry platform.  
 
 #### Why?
 Open source projects are awesome. PaaS CloudFoundry enabling of self-hosted open source application platforms is messy.  Making a mashup between cool opensource and cloud-enabling tweaks that makes deployment feel sweet and simple is "hard to do".  Legal review burdens aside, the level of ongoing maintenance effort is directly proportional to the number of tweaks in the mashup.  So, keeping a repository concise and abbreviated in content is smart.  My objective with this repo experiment is to facilitate consistent, rapid Drupal deploys on IBM Bluemix with minimal deployment friction using the fewest files possible.
